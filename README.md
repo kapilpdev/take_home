@@ -2,6 +2,7 @@
 
 ## Prerequisites
   - Use Ruby 3.0.0
+  - Use gem install nokogiri
 
 ## Usages
   - git clone https://github.com/kapilpdev/take_home.git
